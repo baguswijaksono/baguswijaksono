@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, :) my name...
 
 ![2](https://user-images.githubusercontent.com/106671990/205654921-e0a6f217-eb26-4c63-9319-7b6432477c45.png)
 ### Languages
