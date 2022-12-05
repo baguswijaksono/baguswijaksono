@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![2](https://user-images.githubusercontent.com/106671990/205654921-e0a6f217-eb26-4c63-9319-7b6432477c45.png)
-![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![alt text](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 
+
 ### operating system
 ![alt text](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![alt text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
