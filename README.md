@@ -11,8 +11,5 @@
 ### Operating Systems
 ![alt text](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white) ![alt text](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) 
 
-### Statistic
-[![Bagus GitHub stats](https://github-readme-stats.vercel.app/api?username=baguswijaksono&count_private=true&show_icons=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
